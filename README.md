@@ -5,9 +5,9 @@ This is a simple python project is to build a game for a Single Player that Play
 
 Following are the rules of the game:
 
-  Snake vs. Water: Snake drinks the water hence wins.
-  Water vs. Gun: The gun will drown in water, hence a point for water
-  Gun vs. Snake: Gun will kill the snake and win.
+    Snake vs. Water: Snake drinks the water hence wins.
+    Water vs. Gun: The gun will drown in water, hence a point for water
+    Gun vs. Snake: Gun will kill the snake and win.
 
 In situations where both players choose the same object, the result will be a TIE.
 
